@@ -1,5 +1,15 @@
 # Exif.js
 
+> forked from [Exif.js](https://github.com/exif-js/exif-js)
+
+[![NPM version][npm-image]][npm-url]
+[![Downloads][downloads-image]][downloads-url]
+
+[npm-image]: https://img.shields.io/npm/v/@nuofe/exif-js.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/@nuofe/exif-js
+[downloads-image]: https://img.shields.io/npm/dm/@nuofe/exif-js.svg?style=flat-square
+[downloads-url]: https://www.npmjs.com/package/@nuofe/exif-js
+
 A JavaScript library for reading [EXIF meta data](https://en.wikipedia.org/wiki/Exchangeable_image_file_format) from image files.
 
 You can use it on images in the browser, either from an image or a file input element. Both EXIF and IPTC metadata are retrieved.
